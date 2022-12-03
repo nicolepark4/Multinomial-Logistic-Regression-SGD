@@ -1,4 +1,5 @@
 # Math 118 Extra Credit
+# Nicole Park, UID: 705385536, Date: 12/2/2022
 
 This is my extra credit assignment for Math 118. 
 
