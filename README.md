@@ -6,4 +6,4 @@ We will use the Dermatology dataset from the UCI Machine Learning Repository (ht
 
 The dataset has also been uploaded as a csv file ("dermatology.csv") for convenience.
 
-The implementation of the model can be found in the .py file ("Mult-Log-Reg-SGD.py") along with explanations of the theory.
+The implementation of the model can be found in the .py file ("Multi-Log-Reg-SGD.py") along with explanations of the theory.
